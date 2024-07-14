@@ -1,2 +1,0 @@
-# pollux
-maimor
