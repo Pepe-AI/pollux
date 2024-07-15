@@ -8,7 +8,7 @@
   margin-left: auto;
   margin-right: auto;
   top: 150px;
-  background-color: ##ebcff5;
+  background-color: #ebcff5;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
 }
 
@@ -24,7 +24,7 @@
   border-right: 140px solid transparent;
   border-bottom: 82px solid transparent;
   /* a little smaller */
-  border-top: 98px solid #ff3333;
+  border-top: 98px solid #4b1c71;
   /* a little larger */
   transform-origin: top;
   pointer-events: none;
