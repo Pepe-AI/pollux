@@ -21,5 +21,5 @@ $( document ).ready(function() {
     function close() {
         envelope.addClass("close")
            .removeClass("open");
-    }
+    });
 
